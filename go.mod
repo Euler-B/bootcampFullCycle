@@ -3,7 +3,10 @@ module github.com/Euler-B/bootcampFullCycle
 go 1.19
 
 require (
+	github.com/devfullcycle/pfa-go v0.0.0-20220928011221-9fe6d4ac5c25
 	github.com/go-sql-driver/mysql v1.6.0
+	github.com/google/uuid v1.3.0
+	github.com/rabbitmq/amqp091-go v1.5.0
 	github.com/stretchr/testify v1.8.0
 )
 
